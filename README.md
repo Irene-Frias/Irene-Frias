@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects:
 
 ### 🧠 [Project Name](https://github.com/yourusername/projectname)
 - **Description**: In process.
@@ -33,5 +33,3 @@
 - **Book I'm Reading**: *"Clean Code"* by Robert C. Martin
 - **Latest Tutorial**: [Learn React in 30 Minutes](https://www.youtube.com/watch?v=example)
 - **Favorite Podcast**: [Syntax - Tasty Web Development Treats](https://syntax.fm/)
-
----
