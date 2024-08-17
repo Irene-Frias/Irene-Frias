@@ -6,3 +6,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Irene-Frias&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Irene-Frias&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Irene-Frías&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## About The Project
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
