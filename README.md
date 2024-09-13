@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 Featured Projects:
--   I'm learning to use the language. So right now there is not much upload.
+-   I'm learning to use a programming language. So right now there is not much load.
 <!--
 ### 🧠 [Project Name](https://github.com/yourusername/projectname)
 - **Description**: In process.
