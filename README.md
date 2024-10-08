@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 Featured Projects:
--   I'm learning to use a programming language. So right now there is not much load.
+-  I'm learning to use a programming language and more things. I'm studying a cross-platform-application-development in IES Belen in Malaga.
 <!--
 ### 🧠 [Project Name](https://github.com/yourusername/projectname)
 - **Description**: In process.
